@@ -1,4 +1,4 @@
-# Allan Lab Website
+# K
 
 This is the website of our academic research group at Leiden University.
 
