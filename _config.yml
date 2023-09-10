@@ -10,10 +10,10 @@ title: KTH Complex Fluids group
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the OutiLab.
-baseurl: "/outilab"
-# baseurl: ""
-# url: "http://localhost:4000"
-url: "https://kth-complex-fluids-group.github.io"
+# baseurl: "/outilab"
+baseurl: ""
+url: "http://localhost:4000"
+# url: "https://kth-complex-fluids-group.github.io"
 
 include:
   - .htaccess
