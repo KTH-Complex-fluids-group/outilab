@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Outi Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Outi Lab at KTH Royal Institute of Technology, Sweden."
 sitemap: false
 permalink: /
 ---
