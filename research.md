@@ -8,7 +8,14 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Our goal is to explore the physics underlying the behaviour of complex fluids. We use cutting-edge numerical and experimental techniques to investigate the behaviour of viscoelastic and elasto-viscoplastic fluid flows in a variety of flow configurations. Recently, we have also started utilizing data-driven tools to model and predict near-wall turbulence in viscoelastic flows.
+
+Write about:
+**PRACE**
+
+**In-house codes**
+
+We have group members with different background and interests, working together on physics of complex fluids.
 
 Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
 
