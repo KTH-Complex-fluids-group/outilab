@@ -1,6 +1,6 @@
 # Complex Fluids group
 
-This is the website of our academic research group at KTH, Sweden. Thanks to Allan Lab for the template.
+This is the website of our academic research group at KTH, Sweden. Thanks to Allan Lab for the Jekyll theme and layout.
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch.
 
