@@ -23,7 +23,7 @@ permalink: /publications/
 {% if idx == highlight_index %}
 {% assign final_authors = final_authors | append: " <strong><em>" | append: author | append: "</em></strong>" %}
 {% elsif idx == pi_index %}
-{% assign final_authors = final_authors | append: " <u>" | append: author | append: "</u>" %}
+{% assign final_authors = final_authors | append: " <u><em>" | append: author | append: "</em></u>" %}
 {% else %}
 {% assign final_authors = final_authors | append: " " | append: author %}
 {% endif %}
@@ -37,6 +37,5 @@ permalink: /publications/
 <a href="{{ item.url }}">{{ item.display }}</a>
 
 {% unless forloop.last %}
-
 {% endunless %}
 {% endfor %}
