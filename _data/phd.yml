@@ -39,9 +39,9 @@
   education2: <a href="mailto:udits@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:udits@kth.se" border="0" /> </a>
   
 - name: "This could be you !"
-  photo: tassawar.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  photo: tassawar.png
+  info: See <a href="https://kth-complex-fluids-group.github.io/outilab/vacancies">openings</a> for more info
+  email: outi@mech.kth.se
   number_educ: 0
   education1:
   education2:
