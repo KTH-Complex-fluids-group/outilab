@@ -19,19 +19,17 @@ permalink: /publications/
 {% endif %}
 {% assign final_authors = "" %}
 {% for author in authors_list %}
-  {% assign idx = forloop.index0 %}
-  {% if idx == highlight_index %}
-    {# Bold+Italic for highlight author #}
-    {% assign final_authors = final_authors | append: " <strong><em>" | append: author | append: "</em></strong>" %}
-  {% elsif idx == pi_index %}
-    {# Underline for pihighlight author #}
-    {% assign final_authors = final_authors | append: " <u>" | append: author | append: "</u>" %}
-  {% else %}
-    {% assign final_authors = final_authors | append: " " | append: author %}
-  {% endif %}
-  {% unless forloop.last %}
-    {% assign final_authors = final_authors | append: " and" %}
-  {% endunless %}
+{% assign idx = forloop.index0 %}
+{% if idx == highlight_index %}
+{% assign final_authors = final_authors | append: " <strong><em>" | append: author | append: "</em></strong>" %}
+{% elsif idx == pi_index %}
+{% assign final_authors = final_authors | append: " <u>" | append: author | append: "</u>" %}
+{% else %}
+{% assign final_authors = final_authors | append: " " | append: author %}
+{% endif %}
+{% unless forloop.last %}
+{% assign final_authors = final_authors | append: " and" %}
+{% endunless %}
 {% endfor %}
 
 {{ forloop.index }}. **_{{ item.title }}_**  
@@ -39,6 +37,6 @@ permalink: /publications/
 <a href="{{ item.url }}">{{ item.display }}</a>
 
 {% unless forloop.last %}
+
 {% endunless %}
 {% endfor %}
-
