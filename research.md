@@ -8,29 +8,16 @@ permalink: /research/
 
 # Research
 
-Our goal is to explore the physics underlying the behaviour of complex fluids. We use cutting-edge numerical and experimental techniques to investigate the behaviour of viscoelastic and elasto-viscoplastic fluid flows in a variety of flow configurations. Recently, we have also started utilizing data-driven tools to model and predict near-wall turbulence in viscoelastic flows.
+# Complex Fluids group at KTH
 
-We have group members with different background and interests, working together on physics of complex fluids.
+## Research Overview
 
-Updating soon. Stay put!
+KTH Complex Fluids group is a research group at KTH Royal Institute of Technology, founded by Dr. Outi Tammisola, that focuses on understanding complex (non-Newtonian) fluid dynamics. The group investigates how fluid elasticity and plasticity (yield-stress behaviour) influence flow behaviour in various scenarios, from flows in porous media to mixing and turbulent flows. They aim to unravel fundamental mechanisms by which the synergy of a fluid’s elasticity and plasticity alters flow stability and patterns – for example, how combining these properties can trigger elastic flow instabilities even in regimes that would remain laminar for ordinary fluids. By exploring such effects across laminar, transitional, and turbulent regimes, the group’s work provides insight into phenomena like elasto-inertial turbulence and other non-linear flow responses that are important in industrial and biological contexts. This formal yet inquisitive approach to fluid mechanics enables them to address why complex fluids behave in ways that defy classical expectations.
 
-Write about:
+## Computational and Experimental Methods
 
-**In-house codes**
+To tackle these challenges, the group employs a dual approach of high-fidelity simulations and cutting-edge experiments. On the computational side, they have developed in-house numerical codes built on the open-source CaNS (Canonical Navier–Stokes) framework – a fast, massively-parallel solver for simulating canonical fluid flows. Using CaNS as a foundation, the team implements additional physics for complex fluids (e.g. viscoelastic and elastoviscoplastic models), allowing them to perform direct numerical simulations that capture the nuanced effects of elasticity and yield stress in flow. Additionally, the group employs Basilisk C, a versatile computational framework for simulating two-phase, surface-tension-driven flows. Basilisk C enables highly adaptive mesh refinement, making it particularly effective for resolving interfacial dynamics in multiphase flows. This allows the team to investigate droplet and bubble dynamics, and capillary-driven flows with high accuracy.These bespoke simulations are complemented by innovative experimental methods. The group designs laboratory experiments to validate and enrich their numerical findings, employing advanced flow diagnostics to observe the flow field. For instance, they use high-speed imaging and optical coherence tomography (OCT) to measure the flow. OCT provides non-invasive, high-resolution imaging, enabling the group to capture fine details of flow instabilities and deformation in real-time. Such experiments serve to cross-verify the computational models with physical reality. This combined approach ensures a deep and comprehensive understanding of complex fluid flows, where simulation and experiment go hand-in-hand.
 
-**Particle suspensions**
-Particle suspensions in elastoviscoplastic fluids: The study of particle suspensions in elastoviscoplastic (EVP) carrier fluids is inspired by a variety of industrial and scientific applications, such as hydraulic fracturing in the oil industry, the pumping of concrete in the construction industry, and sorting or separation of biological cells in microfluidic devices. However, there is a lack of comprehensive understanding regarding the interaction between particles and EVP fluids in the existing literature. To address this, we perform interface-resolved direct numerical simulations to study the collective dynamics of spherical particles suspended in a laminar pressure-driven EVP duct flow. In particular, we investigate the individual and combined effects of solid volume fraction, yield stress, inertia, elasticity, shear-thinning viscosity, and secondary flows on particle migration and formation of plug regions in the carrier fluid. We observed cross-streamline migration of particles depending on the elasticity of the carrier fluid: in suspensions with low elasticity, in the presence of inertia, particles tend to concentrate between the duct center and the walls, while accumulation of particles at the duct corners is observed when increasing the fluid elasticity. Furthermore, yield stress, shear-thinning viscosity, and secondary flows enhance the effect of elastic forces on pushing the particles toward the duct corners. Additionally, we observed the development of a moving plug at the duct center due to insufficient shear stress to yield the material. This plug region can be disrupted by particle-induced stresses in suspensions with high solid volume fractions but can be strengthened by increasing the yield stress of the EVP material.
+## High-Performance Computing and PRACE Resources
 
-**Contact angle hysterisis**
-We are also interested in trying to understand how roughness affects the physics of a two pair fluid when they are in contact with a solid and how this can be beneficial in understanding the dynamics of flow in a porous media filled with two Newtonian Fluids, one invading the other. Or in the case of Non-Newtonian Fluids we explore the effect of roughness on the movement of a droplet on a solid which would further help us in bettering the understanding of complex fluids in real life when in contact with a solid.
-
-
-
-**Experiments**
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/kasra_experiment.jpeg){: style="width: 250px; float: left; margin: 0px  10px"}
-
-Here are some themes and techniques that we currently work on:
-
-
-### ... and more.
+A hallmark of the group’s work is its use of large-scale simulations on world-class supercomputing resources. The team leverages both European and national high-performance computing facilities to run their computationally intensive models. In particular, they have performed extensive simulations through PRACE (the Partnership for Advanced Computing in Europe) and via Sweden’s national supercomputing infrastructure NAISS. Through NAISS allocations, the group accesses leading HPC clusters like Dardel (at KTH/PDC) and Tetralith (at NSC Linköping), which provide the massive CPU/GPU power needed for their research. These resources enable simulations with billions of grid points or long temporal spans, capturing fine details of complex flow physics that would be impossible to resolve otherwise. By harnessing advanced HPC and experimental tools in tandem, Dr. Tammisola’s group pushes the frontiers of fluid mechanics – offering both fundamental insights and practical predictions about how elasticity and plasticity shape fluid flows in engineering and nature.
