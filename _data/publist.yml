@@ -1,20 +1,13 @@
 - title: "Experimental and numerical investigation of bubble migration in shear flow: Deformability-driven chaining and repulsion"
-  image: imageaward_edited.png
-  description: No data.
   authors: Feneuil, Blandine and Iqbal, Kazi Tassawar and Jensen, Atle and Brandt, Luca and Tammisola, Outi and Carlson, Andreas
-  link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: PRF 4, 3341 (2023)
-  highlight: 1
-  news2: See [news item]() by Michelle Willebrands
-  
+  url: https://www.nature.com/articles/s41467-023-39109-w
+  display: PRF 4, 3341 (2023)
+  highlight: 2
+  pihighlight: -2
 
 - title: "Rapid wetting of shear-thinning fluids"
-  image: imageaward_edited.png
-  description: No data.
   authors: Yada, Susumu and Bazesefidpar, Kazem and Tammisola, Outi and Amberg, Gustav and Bagheri, Shervin
-  link:
-    url: https://arxiv.org/abs/2306.02397
-    display: arXiv
-  highlight: 0
-  news2: See [news item]() by Michelle Willebrands
+  url: https://arxiv.org/abs/2306.02397
+  display: arXiv
+  highlight: 2
+  pihighlight: -3
