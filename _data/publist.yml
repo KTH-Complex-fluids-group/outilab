@@ -4,14 +4,14 @@
   url: https://doi.org/10.1017/jfm.2024.1073
   display: "Journal of Fluid Mechanics 1001, A9, 2024"
   highlight: 1
-  pihighlight: 5
+  pihighlight: -1
 
 - title: "The effect of contact angle hysteresis on a droplet in a viscoelastic two-phase system"
   authors: Bazesefidpar, K. and Tammisola, Outi
   url: https://doi.org/10.1063/5.0199348
   display: "Physics of Fluids 36 (3), 2024"
   highlight: 1
-  pihighlight: 2
+  pihighlight: -1
 
 # 2023
 - title: "Experimental and numerical investigation of bubble migration in shear flow: Deformability-driven chaining and repulsion"
@@ -19,7 +19,7 @@
   url: https://doi.org/10.1103/PhysRevFluids.8.063602
   display: "Physical Review Fluids 8 (6), 063602, 2023"
   highlight: 2
-  pihighlight: 5
+  pihighlight: -2
 
 - title: "Rapid wetting of shear-thinning fluids"
   authors: Yada, S. and Bazesefidpar, K. and Tammisola, Outi and Amberg, G. and Bagheri, S.
