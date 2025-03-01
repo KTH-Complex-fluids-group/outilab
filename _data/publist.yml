@@ -1,3 +1,11 @@
+# 2025
+- title: "The role of wetting on the flow of two immiscible fluids in porous media"
+  authors: Shahmardi, Armin and Zamani Salimi, Salar and Tammisola, Outi and Brandt, Luca and Rosti, M.E.
+  url: https://doi.org/10.1063/5.0245043
+  display: "Physics of Fluids 37(1), 2025"
+  highlight: 0
+  pihighlight: -3
+  
 # 2024
 - title: "Bursting bubble in an elastoviscoplastic medium"
   authors: Balasubramanian, A. G. and Sanjay, V. and Jalaal, M. and Vinuesa, R. and Tammisola, Outi
@@ -5,6 +13,20 @@
   display: "Journal of Fluid Mechanics 1001, A9, 2024"
   highlight: 1
   pihighlight: -1
+  
+- title: "General hydrodynamic features of elastoviscoplastic fluid flows through randomised porous media"
+  authors: Parvar, Saeed and Chaparian, E. and Tammisola, Outi
+  url: https://link.springer.com/article/10.1007/s00162-024-00705-1
+  display: "Theoretical and Computational Fluid Dynamics 38(4), 87, 2024"
+  highlight: 1
+  pihighlight: -1
+  
+- title: "Elasto-inertial focusing and particle migration in high aspect ratio microchannels for high-throughput separation"
+  authors: Tanriverdi, Selim and Cruz, Javier and Habibi, Shahriar and Amini, Kasra and Costa, Martim and Lundell, Fredrik and Mårtensson, Gustaf and Brandt, Luca and Tammisola, Outi and Russom, Aman
+  url: https://www.nature.com/articles/s41378-024-00724-2
+  display: "Microsystems and Nanoengineering 10(1), 87, 2024"
+  highlight: 3
+  pihighlight: -2
 
 - title: "The effect of contact angle hysteresis on a droplet in a viscoelastic two-phase system"
   authors: Bazesefidpar, K. and Tammisola, Outi
@@ -12,6 +34,20 @@
   display: "Physics of Fluids 36 (3), 2024"
   highlight: 1
   pihighlight: -1
+  
+- title: "Scaling laws for near-wall flows of thixo-elasto-viscoplastic fluids in a millifluidic channel"
+  authors: Amini, Kasra and Mishra, A.A. and Sivakumar, A.K. and Arlov, D. and Innings, F. and Kádár, R. and Tammisola, Outi and Lundell, F.
+  url: https://doi.org/10.1063/5.0186668
+  display: "Physics of Fluids 36 (2), 2024"
+  highlight: 1
+  pihighlight: -2
+  
+- title: "An efficient isogeometric/finite-difference immersed boundary method for the fluid–structure interactions of slender flexible structures"
+  authors: Agrawal, V. and Kulachenko, A. and Scapin, N. and Tammisola, Outi and Brandt, L.
+  url: https://doi.org/10.1016/j.cma.2023.116495
+  display: "Computer Methods in Applied Mechanics and Engineering 418, 2024"
+  highlight: 0
+  pihighlight: -2
 
 # 2023
 - title: "Experimental and numerical investigation of bubble migration in shear flow: Deformability-driven chaining and repulsion"
@@ -228,7 +264,7 @@
   url: ''
   display: "Proceedings of the Combustion Institute 36 (3), 3863-3871, 2017"
   highlight: 0
-  pihighlight: 3
+  pihighlight: -3
 
 # 2016
 - title: "Coherent structures in a swirl injector at Re= 4800 by nonlinear simulations and linear global modes"
