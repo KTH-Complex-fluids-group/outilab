@@ -65,6 +65,13 @@
   pihighlight: -3
 
 # 2022
+- title: "Numerical simulation of the coalescence-induced polymeric droplet jumping on superhydrophobic surfaces"
+  authors: Bazesefidpar, K. and Brandt, L. and Tammisola, Outi
+  url: https://doi.org/10.1016/j.jnnfm.2022.104872
+  display: "Journal of Non-Newtonian Fluid Mechanics 307, 2022"
+  highlight: 1
+  pihighlight: -1
+  
 - title: "A dual resolution phase-field solver for wetting of viscoelastic droplets"
   authors: Bazesefidpar, K. and Brandt, L. and Tammisola, Outi
   url: https://doi.org/10.1002/fld.5100
@@ -79,27 +86,69 @@
   highlight: 0
   pihighlight: -3
 
-- title: "Numerical simulation of the coalescence-induced polymeric droplet jumping on superhydrophobic surfaces"
-  authors: Bazesefidpar, K. and Brandt, L. and Tammisola, Outi
-  url: https://doi.org/10.1016/j.jnnfm.2022.104872
-  display: "Journal of Non-Newtonian Fluid Mechanics 307, 2022"
-  highlight: 1
-  pihighlight: -1
-
 - title: "Prediction of wall-bounded turbulence in a viscoelastic channel flow using convolutional neural networks"
   authors: Balasubramanian, A. G. and Vinuesa, R. and Tammisola, Outi
-  url: ''
+  url: https://www.diva-portal.org/smash/get/diva2:1743146/FULLTEXT01.pdf
   display: "Joint ERCOFTAC/EU-CTFF Drag Reduction and Flow Control Meeting (EDRFCM), 2022"
   highlight: 1
   pihighlight: -1
 
 # 2021
+- title: "Effect of finite Weissenberg number on turbulent channel flows of an elastoviscoplastic fluid"
+  authors: Izbassarov, D. and Rosti, M. E. and Brandt, L. and Tammisola, Outi
+  url: https://doi.org/10.1017/jfm.2021.789
+  display: "Journal of Fluid Mechanics 927, 2021"
+  highlight: 1
+  pihighlight: -1
+  
+- title: "A fully Eulerian hybrid immersed boundary-phase field model for contact line dynamics on complex geometries"
+  authors: Shahmardi, A. and Rosti, M. E. and Tammisola, Outi and Brandt, L.
+  url: https://doi.org/10.1016/j.jcp.2021.110468
+  display: "Journal of Computational Physics 443, 110468, 2021"
+  highlight: 0
+  pihighlight: -2
+  
+- title: "Polymer drag reduction in surfactant-contaminated turbulent bubbly channel flows"
+  authors: Izbassarov, D. and Ahmed, Z. and Costa, P. and Vuorinen, V. and Tammisola, Outi and Muradoglu, M.
+  url: https://doi.org/10.1103/PhysRevFluids.6.104302
+  display: "Physical Review Fluids 6 (10), 104302, 2021"
+  highlight: 1
+  pihighlight: -2
+  
+- title: "Numerical simulations of small amplitude oscillatory shear flow of suspensions of rigid particles in non-Newtonian liquids at finite inertia"
+  authors: Villone, M. M. and Rosti, M. E. and Tammisola, Outi and Brandt, L.
+  url: https://doi.org/10.1122/8.0000257
+  display: "Journal of Rheology 65 (5), 821-835, 2021"
+  highlight: 0
+  pihighlight: -2
+  
 - title: "Effects of surface nanostructure and wettability on pool boiling: A molecular dynamics study"
   authors: Shahmardi, A. and Tammisola, Outi and Chinappi, M. and Brandt, L.
   url: https://doi.org/10.1016/j.ijthermalsci.2021.106980
   display: "International Journal of Thermal Sciences 167, 106980, 2021"
   highlight: 0
   pihighlight: -3
+  
+- title: "The effect of droplet coalescence on drag in turbulent channel flows"
+  authors: Cannon, I. and Izbassarov, D. and Tammisola, Outi and Brandt, L. and Rosti, M. E.
+  url: https://doi.org/10.1063/5.0058632
+  display: "Physics of Fluids 33 (8), 2021"
+  highlight: 2
+  pihighlight: -3
+  
+- title: "Global stability and nonlinear dynamics of wake flows with a two-fluid interface"
+  authors: Schmidt, S. and Tammisola, Outi and Lesshafft, L. and Oberleithner, K.
+  url: https://doi.org/10.1017/jfm.2021.150
+  display: "Journal of Fluid Mechanics 915, A96, 2021"
+  highlight: 0
+  pihighlight: -3
+  
+- title: "The first open channel for yield-stress fluids in porous media"
+  authors: Fraggedakis, D. and Chaparian, E. and Tammisola, Outi
+  url: https://doi.org/10.1017/jfm.2020.1105
+  display: "Journal of Fluid Mechanics 911, 2021"
+  highlight: 2
+  pihighlight: -1
 
 - title: "Sliding flows of yield-stress fluids"
   authors: Chaparian, E. and Tammisola, Outi
@@ -108,117 +157,89 @@
   highlight: 1
   pihighlight: -1
 
-- title: "The effect of droplet coalescence on drag in turbulent channel flows"
-  authors: Cannon, I. and Izbassarov, D. and Tammisola, Outi and Brandt, L. and Rosti, M. E.
-  url: https://doi.org/10.1063/5.0058632
-  display: "Physics of Fluids 33 (8), 2021"
-  highlight: 2
-  pihighlight: -3
-
-- title: "The first open channel for yield-stress fluids in porous media"
-  authors: Fraggedakis, D. and Chaparian, E. and Tammisola, Outi
-  url: https://doi.org/10.1017/jfm.2020.1105
-  display: "Journal of Fluid Mechanics 911, 2021"
-  highlight: 2
-  pihighlight: -1
-
-- title: "A fully Eulerian hybrid immersed boundary-phase field model for contact line dynamics on complex geometries"
-  authors: Shahmardi, A. and Rosti, M. E. and Tammisola, Outi and Brandt, L.
-  url: https://doi.org/10.1016/j.jcp.2021.110468
-  display: "Journal of Computational Physics 443, 110468, 2021"
-  highlight: 0
-  pihighlight: -2
-
-- title: "Effect of finite Weissenberg number on turbulent channel flows of an elastoviscoplastic fluid"
-  authors: Izbassarov, D. and Rosti, M. E. and Brandt, L. and Tammisola, Outi
-  url: https://doi.org/10.1017/jfm.2021.789
-  display: "Journal of Fluid Mechanics 927, 2021"
-  highlight: 1
-  pihighlight: -1
-
-- title: "Global stability and nonlinear dynamics of wake flows with a two-fluid interface"
-  authors: Schmidt, S. and Tammisola, Outi and Lesshafft, L. and Oberleithner, K.
-  url: https://doi.org/10.3390/fluids6070245
-  display: "Journal of Fluid Mechanics 915, A96, 2021"
-  highlight: 0
-  pihighlight: -3
-
-- title: "Numerical simulations of small amplitude oscillatory shear flow of suspensions of rigid particles in non-Newtonian liquids at finite inertia"
-  authors: Villone, M. M. and Rosti, M. E. and Tammisola, Outi and Brandt, L.
-  url: https://doi.org/10.1122/8.0000257
-  display: "Journal of Rheology 65 (5), 821-835, 2021"
-  highlight: 0
-  pihighlight: -2
-
-- title: "Polymer drag reduction in surfactant-contaminated turbulent bubbly channel flows"
-  authors: Izbassarov, D. and Ahmed, Z. and Costa, P. and Vuorinen, V. and Tammisola, Outi and Muradoglu, M.
-  url: https://doi.org/10.1103/PhysRevFluids.6.104302
-  display: "Physical Review Fluids 6 (10), 104302, 2021"
-  highlight: 1
-  pihighlight: -2
-
 # 2020
-- title: "Coherent structures in the turbulent channel flow of an elastoviscoplastic fluid"
-  authors: Le Clainche, S. and Izbassarov, D. and Rosti, M. and Brandt, L. and Tammisola, Outi
-  url: https://doi.org/10.1017/jfm.2020.31
-  display: "Journal of Fluid Mechanics 888, A5, 2020"
+- title: "Turbulent bubbly channel flows: Effects of soluble surfactant and viscoelasticity"
+  authors: Ahmed, Zaheer and Izbassarov, Daulet and Costa, Pedro and Muradoglu, Metin and Tammisola, Outi
+  url: https://doi.org/10.1016/j.compfluid.2020.104717
+  display: "Computers and Fluids 212, 104717, 2020"
   highlight: 2
   pihighlight: -1
-
-- title: "Yield-stress fluids in porous media: a comparison of viscoplastic and elastoviscoplastic flows"
-  authors: Chaparian, E. and Izbassarov, D. and De Vita, F. and Brandt, L. and Tammisola, Outi
-  url: https://doi.org/10.1007/s11012-019-01071-w
-  display: "Meccanica 55, 331-342, 2020"
-  highlight: 1
-  pihighlight: -1
-
+  
 - title: "Dynamics of an elastoviscoplastic droplet in a Newtonian medium under shear flow"
   authors: Izbassarov, D. and Tammisola, Outi
   url: https://doi.org/10.1103/PhysRevFluids.5.113301
   display: "Physical Review Fluids 5 (11), 113301, 2020"
   highlight: 1
   pihighlight: -1
-
+  
 - title: "Particle migration in channel flow of an elastoviscoplastic fluid"
   authors: Chaparian, E. and Ardekani, M. N. and Brandt, L. and Tammisola, Outi
   url: https://doi.org/10.1016/j.jnnfm.2020.104376
   display: "Journal of Non-Newtonian Fluid Mechanics 284, 104376, 2020"
   highlight: 1
   pihighlight: -1
-
+  
+- title: "Effects of soluble surfactant on lateral migration of a bubble in a pressure driven channel flow"
+  authors: Ahmed, Zaheer and Izbassarov, Daulet and Lu, Jiacai and Tryggvason, Gretar and Muradoglu, Metin and Tammisola, Outi
+  url: https://doi.org/10.1016/j.ijmultiphaseflow.2020.103251
+  display: "International Journal of Multiphase Flow, 126, 103251, 2020"
+  highlight: 2
+  pihighlight: -1
+  
+- title: "Coherent structures in the turbulent channel flow of an elastoviscoplastic fluid"
+  authors: Le Clainche, S. and Izbassarov, D. and Rosti, M. and Brandt, L. and Tammisola, Outi
+  url: https://doi.org/10.1017/jfm.2020.31
+  display: "Journal of Fluid Mechanics 888, A5, 2020"
+  highlight: 2
+  pihighlight: -1
+  
 - title: "Stability of particles inside yield-stress fluid Poiseuille flows"
   authors: Chaparian, E. and Tammisola, Outi
-  url: https://doi.org/10.1017/jfm.2020.106
+  url: https://doi.org/10.1017/jfm.2019.1038
   display: "Journal of Fluid Mechanics 885, 2020"
   highlight: 1
   pihighlight: -1
 
+- title: "Yield-stress fluids in porous media: a comparison of viscoplastic and elastoviscoplastic flows"
+  authors: Chaparian, E. and Izbassarov, D. and De Vita, F. and Brandt, L. and Tammisola, Outi
+  url: https://link.springer.com/article/10.1007/s11012-019-01010-6
+  display: "Meccanica 55, 331-342, 2020"
+  highlight: 1
+  pihighlight: -1
+
 # 2019
+- title: "Numerical simulations of oscillatory shear flow of particle suspensions at finite inertia"
+  authors: Villone, Massimiliano M. and Rosti, Marco E. and Tammisola, Outi and Brandt, Luca
+  url: https://link.springer.com/article/10.1007/s00397-019-01177-5
+  display: "Rheologica Acta, 58(11), 741-753, 2019"
+  highlight: 0
+  pihighlight: -2
+  
 - title: "An adaptive finite element method for elastoviscoplastic fluid flows"
   authors: Chaparian, E. and Tammisola, Outi
   url: https://doi.org/10.1016/j.jnnfm.2019.104148
   display: "Journal of Non-Newtonian Fluid Mechanics 271, 104148, 2019"
   highlight: 1
   pihighlight: -1
-
-- title: "Flow-assisted droplet assembly in a 3D microfluidic channel"
-  authors: Ge, Z. and Tammisola, Outi and Brandt, L.
-  url: https://doi.org/10.1039/C9SM00000A
-  display: "Soft Matter 15 (16), 3451-3460, 2019"
+  
+- title: "On the axial distribution of plaque stress: Influence of stenosis severity, lipid core stiffness, lipid core length and fibrous cap stiffness"
+  authors: Alegre-Martínez, C. and Choi, K.S. and Tammisola, Outi and McNally, D.
+  url: https://doi.org/10.1016/j.medengphy.2019.02.015
+  display: "Medical Engineering and Physics 68, 76-84, 2019"
   highlight: 0
   pihighlight: -2
-
+  
 - title: "Fluid dynamics of the slip boundary condition for isothermal rimming flow with moderate inertial effects"
   authors: Nicholson, J. M. P. and Power, H. and Tammisola, Outi and Hibberd, S. and Kay, E. D.
-  url: ''
+  url: https://doi.org/10.1063/1.5085497
   display: "Physics of Fluids 31 (3), 2019"
   highlight: 0
   pihighlight: -3
 
-- title: "On the axial distribution of plaque stress: Influence of stenosis severity, lipid core stiffness, lipid core length and fibrous cap stiffness"
-  authors: Alegre-Martínez, C. and Choi, K.S. and Tammisola, Outi and McNally, D.
-  url: ''
-  display: "Medical Engineering and Physics 68, 76-84, 2019"
+- title: "Flow-assisted droplet assembly in a 3D microfluidic channel"
+  authors: Ge, Z. and Tammisola, Outi and Brandt, L.
+  url: https://doi.org/10.1039/C8SM02479K
+  display: "Soft Matter 15 (16), 3451-3460, 2019"
   highlight: 0
   pihighlight: -2
 
@@ -229,13 +250,13 @@
   display: "International Journal for Numerical Methods in Fluids 88 (12), 521-543, 2018"
   highlight: 1
   pihighlight: -1
-
-- title: "An efficient mass-preserving interface-correction level set/ghost fluid method for droplet suspensions under depletion forces"
-  authors: Ge, Z. and Loiseau, J.-C. and Tammisola, Outi and Brandt, L.
-  url: https://doi.org/10.1016/j.jcp.2017.10.024
-  display: "Journal of Computational Physics 353, 435-459, 2018"
-  highlight: 0
-  pihighlight: -2
+  
+- title: "Turbulent channel flow of an elastoviscoplastic fluid"
+  authors: Rosti, M. E. and Izbassarov, D. and Tammisola, Outi and Hormozi, S. and Brandt, L.
+  url: https://doi.org/10.1017/jfm.2018.591
+  display: "Journal of Fluid Mechanics 853, 488-514, 2018"
+  highlight: 2
+  pihighlight: -3
 
 - title: "Elastoviscoplastic flows in porous media"
   authors: De Vita, F. and Rosti, M. E. and Izbassarov, D. and Duffo, L. and Tammisola, Outi and Hormozi, S. and Brandt, L.
@@ -244,24 +265,38 @@
   highlight: 3
   pihighlight: -3
 
-- title: "Turbulent channel flow of an elastoviscoplastic fluid"
-  authors: Rosti, M. E. and Izbassarov, D. and Tammisola, Outi and Hormozi, S. and Brandt, L.
-  url: https://doi.org/10.1017/jfm.2018.434
-  display: "Journal of Fluid Mechanics 853, 488-514, 2018"
-  highlight: 2
-  pihighlight: -3
+- title: "An efficient mass-preserving interface-correction level set/ghost fluid method for droplet suspensions under depletion forces"
+  authors: Ge, Z. and Loiseau, J.-C. and Tammisola, Outi and Brandt, L.
+  url: https://doi.org/10.1016/j.jcp.2017.10.046
+  display: "Journal of Computational Physics 353, 435-459, 2018"
+  highlight: 0
+  pihighlight: -2
 
 # 2017
 - title: "Effect of viscosity ratio on the self-sustained instabilities in planar immiscible jets"
   authors: Tammisola, Outi and Loiseau, J.-C. and Brandt, L.
-  url: https://doi.org/10.1103/PhysRevFluids.2.033901
+  url: https://doi.org/10.1103/PhysRevFluids.2.033903
   display: "Physical Review Fluids 2 (3), 033901, 2017"
   highlight: 0
   pihighlight: -3
-
+  
+- title: "Optimal wavy surface to suppress vortex shedding using second-order sensitivity to shape changes"
+  authors: Tammisola, Outi
+  url: https://doi.org/10.1016/j.euromechflu.2016.12.006
+  display: "European Journal of Mechanics B: Fluids, 62, 2017"
+  highlight: 0
+  pihighlight: -1
+  
+- title: "Inviscid instability of two-fluid free surface flow down an incline"
+  authors: Ghosh, S. and Usha, R. and Govindarajan, R. and Tammisola, Outi
+  url: https://link.springer.com/article/10.1007/s11012-016-0455-6
+  display: "Meccanica, 52, 955-972, 2017"
+  highlight: 0
+  pihighlight: -1
+  
 - title: "Multiple-scale thermoacoustic stability analysis of a coaxial jet combustor"
   authors: Magri, L. and See, Y. C. and Tammisola, Outi and Ihme, M. and Juniper, M. P.
-  url: ''
+  url: https://doi.org/10.1016/j.proci.2016.06.009
   display: "Proceedings of the Combustion Institute 36 (3), 3863-3871, 2017"
   highlight: 0
   pihighlight: -3
@@ -269,52 +304,45 @@
 # 2016
 - title: "Coherent structures in a swirl injector at Re= 4800 by nonlinear simulations and linear global modes"
   authors: Tammisola, Outi and Juniper, M. P.
-  url: https://doi.org/10.1017/jfm.2016.41
+  url: https://doi.org/10.1017/jfm.2016.86
   display: "Journal of Fluid Mechanics 792, 620-657, 2016"
   highlight: 0
   pihighlight: -2
 
-- title: "Optimal wavy surface to suppress vortex shedding using second-order sensitivity to shape changes"
-  authors: Tammisola, Outi
-  url: https://doi.org/10.1016/j.euromechflu.2016.01.001
-  display: "European Journal of Mechanics B: Fluids, 2016"
-  highlight: 0
-  pihighlight: -1
-
 # 2015
 - title: "Breaking axi-symmetry in stenotic flow lowers the critical transition Reynolds number"
   authors: Samuelsson, J. and Tammisola, Outi and Juniper, M. P.
-  url: https://doi.org/10.1063/1.4934492
+  url: https://doi.org/10.1063/1.4934530
   display: "Physics of Fluids 27 (10), 2015"
   highlight: 0
   pihighlight: -2
-
-- title: "Inviscid instability of two-fluid free surface flow down an incline"
-  authors: Ghosh, S. and Usha, R. and Govindarajan, R. and Tammisola, Outi
-  url: ''
-  display: "Meccanica, 2015"
+  
+- title: "Adjoint Sensitivity Analysis of Hydrodynamic Stability in a Gas Turbine Fuel Injector"
+  authors: Tammisola, Outi and Juniper, M. P.
+  url: https://doi.org/10.1115/GT2015-42736
+  display: "In Turbo Expo: Power for Land, Sea, and Air (Vol. 56680, p. V04AT04A057). ASME"
   highlight: 0
-  pihighlight: -1
+  pihighlight: -2
 
 # 2014
-- title: "The planar X-junction flow: stability analysis and control"
-  authors: Lashgari, I. and Tammisola, Outi and Citro, V. and Juniper, M. P. and Brandt, L.
-  url: https://doi.org/10.1017/jfm.2014.79
-  display: "Journal of Fluid Mechanics 753, 1-28, 2014"
-  highlight: 0
-  pihighlight: -4
-
 - title: "Second-order perturbation of global modes and implications for spanwise wavy actuation"
   authors: Tammisola, Outi and Giannetti, F. and Citro, V. and Juniper, M. P.
-  url: https://doi.org/10.1017/jfm.2014.21
+  url: https://doi.org/10.1017/jfm.2014.415
   display: "Journal of Fluid Mechanics 755, 314-335, 2014"
+  highlight: 0
+  pihighlight: -4
+  
+- title: "The planar X-junction flow: stability analysis and control"
+  authors: Lashgari, I. and Tammisola, Outi and Citro, V. and Juniper, M. P. and Brandt, L.
+  url: https://doi.org/10.1017/jfm.2014.364
+  display: "Journal of Fluid Mechanics 753, 1-28, 2014"
   highlight: 0
   pihighlight: -4
 
 # 2013
 - title: "Linear stability of miscible two-fluid flow down an incline"
   authors: Usha, R. and Tammisola, Outi and Govindarajan, R.
-  url: https://doi.org/10.1063/1.4824483
+  url: https://doi.org/10.1063/1.4823855
   display: "Physics of Fluids 25 (10), 2013"
   highlight: 0
   pihighlight: -2
@@ -322,14 +350,14 @@
 # 2012
 - title: "Surface tension-induced global instability of planar jets and wakes"
   authors: Tammisola, Outi and Lundell, F. and Söderberg, L. D.
-  url: https://doi.org/10.1017/jfm.2012.450
+  url: https://doi.org/10.1017/jfm.2012.477
   display: "Journal of Fluid Mechanics 713, 632-658, 2012"
   highlight: 0
   pihighlight: -3
 
 - title: "Oscillatory sensitivity patterns for global modes in wakes"
   authors: Tammisola, Outi
-  url: https://doi.org/10.1017/jfm.2012.181
+  url: https://doi.org/10.1017/jfm.2012.156
   display: "Journal of Fluid Mechanics 701, 251-277, 2012"
   highlight: 0
   pihighlight: -1
@@ -337,35 +365,36 @@
 # 2011
 - title: "The local and global stability of confined planar wakes at intermediate Reynolds number"
   authors: Juniper, M. P. and Tammisola, Outi and Lundell, F.
-  url: https://doi.org/10.1017/S0022112010001
+  url: https://doi.org/10.1017/jfm.2011.324
   display: "Journal of Fluid Mechanics 686, 218-238, 2011"
   highlight: 0
   pihighlight: -2
 
-- title: "Stabilizing effect of surrounding gas flow on a plane liquid sheet"
-  authors: Tammisola, Outi and Sasaki, A. and Lundell, F. and Matsubara, M. and Söderberg, L. D.
-  url: https://doi.org/10.1017/jfm.2011.68
-  display: "Journal of Fluid Mechanics 672, 5-32, 2011"
+- title: "Global linear and nonlinear stability of viscous confined plane wakes with co-flow"
+  authors: Tammisola, Outi and Lundell, F. and Schlatter, P. and Wehrfritz, A. and Söderberg, L. D.
+  url: https://doi.org/10.1017/jfm.2011.24
+  display: "Journal of Fluid Mechanics 675, 397-434, 2011"
   highlight: 0
   pihighlight: -5
 
-- title: "Global linear and nonlinear stability of viscous confined plane wakes with co-flow"
-  authors: Tammisola, Outi and Lundell, F. and Schlatter, P. and Wehrfritz, A. and Söderberg, L. D.
-  url: https://doi.org/10.1017/jfm.2011.80
-  display: "Journal of Fluid Mechanics 675, 397-434, 2011"
+- title: "Stabilizing effect of surrounding gas flow on a plane liquid sheet"
+  authors: Tammisola, Outi and Sasaki, A. and Lundell, F. and Matsubara, M. and Söderberg, L. D.
+  url: https://doi.org/10.1017/S0022112010006087
+  display: "Journal of Fluid Mechanics 672, 5-32, 2011"
   highlight: 0
   pihighlight: -5
 
 - title: "Effect of surface tension on global modes of confined wake flows"
   authors: Tammisola, Outi and Lundell, F. and Söderberg, L. D.
-  url: https://doi.org/10.1063/1.3537970
+  url: https://doi.org/10.1063/1.3540686
   display: "Physics of Fluids 23 (1), 014108, 2011"
   highlight: 0
   pihighlight: -3
 
-- title: "The local and global stability of confined planar wakes at intermediate Reynolds number"
-  authors: Juniper, M. P. and Tammisola, Outi and Lundell, F.
-  url: https://doi.org/10.1017/jfm.2011.66
-  display: "Journal of Fluid Mechanics 686, 218-238, 2011"
+# 2010
+- title: "Spin coating of Blu-Ray disks: modeling, experiments, limitations, and manipulation"
+  authors: Tammisola, Outi and Lundell, Fredrik and Hellström, Georg and Lagerstedt, Torgny
+  url: https://link.springer.com/article/10.1007/s11998-009-9204-2
+  display: "Journal of Coatings Technology and Research, 7, 315-323, 2010"
   highlight: 0
-  pihighlight: -2
+  pihighlight: -3
