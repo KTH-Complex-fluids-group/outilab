@@ -6212,24 +6212,3 @@ pubtit {
   margin-left: 30px;
   margin-right: 30px; }
 
-.carousel-fade .carousel-item {
-    opacity: 0;
-    transition: opacity 1.5s ease-in-out;
-}
-
-.carousel-fade .carousel-item.active {
-    opacity: 1;
-}
-
-/* Fix for smooth height adjustments */
-.carousel-inner {
-    transition: height 0.5s ease-in-out;
-}
-
-/* Improve button visibility */
-.carousel-control-prev, .carousel-control-next {
-    transition: opacity 0.3s ease-in-out;
-}
-.carousel-control-prev:hover, .carousel-control-next:hover {
-    opacity: 0.8;
-}
