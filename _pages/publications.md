@@ -23,7 +23,7 @@ permalink: /publications/
 {% if idx == highlight_index %}
 {% assign final_authors = final_authors | append: " <strong><em>" | append: author | append: "</em></strong>" %}
 {% elsif idx == pi_index %}
-{% assign final_authors = final_authors | append: " <u><em>" | append: author | append: "</u></em></strong>" %}
+{% assign final_authors = final_authors | append: " <u><em>" | append: author | append: "</em></u></strong>" %}
 {% else %}
 {% assign final_authors = final_authors | append: " " | append: author %}
 {% endif %}
