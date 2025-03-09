@@ -6,6 +6,7 @@ sitemap: false
 permalink: /
 ---
 
+<!-- Bootstrap Carousel with Smooth Transitions -->
 <div markdown="0" id="carousel" class="carousel slide carousel-fade" style="height: 320px; display: flex; justify-content: center; align-items: center;" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -53,6 +54,8 @@ permalink: /
         <span class="sr-only">Next</span>
     </a>
 </div>
+
+
 
 We are a dynamic research group, at [FLOW](https://www.flow.kth.se), [KTH Royal Institute of Technology](https://www.kth.se). At our research group, we are dedicated to exploring and comprehending the behavior of complex fluids' flows. To achieve this goal, we actively develop innovative numerical and experimental techniques, allowing us to delve deep into the physics of fluid flows across various canonical and pertinent engineering scenarios. Our primary objective is to provide answers to the scientific questions that we consider most vital. (see [Research](research)). 
 

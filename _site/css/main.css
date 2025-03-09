@@ -6212,32 +6212,24 @@ pubtit {
   margin-left: 30px;
   margin-right: 30px; }
 
-  /* Custom Carousel Fade Transition for smoother image transitions */
-.carousel.fade .item {
-  opacity: 0;
-  -webkit-transition: opacity 1.5s ease-in-out;
-  transition: opacity 1.5s ease-in-out;
+.carousel-fade .carousel-item {
+    opacity: 0;
+    transition: opacity 1.5s ease-in-out;
 }
 
-.carousel.fade .item.active,
-.carousel.fade .item.next.left,
-.carousel.fade .item.prev.right {
-  opacity: 1;
+.carousel-fade .carousel-item.active {
+    opacity: 1;
 }
 
-/* Smooth height transition for the carousel inner container */
+/* Fix for smooth height adjustments */
 .carousel-inner {
-  -webkit-transition: height 0.5s ease-in-out;
-  transition: height 0.5s ease-in-out;
+    transition: height 0.5s ease-in-out;
 }
 
-/* Smooth hover effect for carousel controls */
-.carousel-control {
-  -webkit-transition: opacity 0.3s ease-in-out;
-  transition: opacity 0.3s ease-in-out;
+/* Improve button visibility */
+.carousel-control-prev, .carousel-control-next {
+    transition: opacity 0.3s ease-in-out;
 }
-.carousel-control:hover,
-.carousel-control:focus {
-  opacity: 0.8;
+.carousel-control-prev:hover, .carousel-control-next:hover {
+    opacity: 0.8;
 }
-
