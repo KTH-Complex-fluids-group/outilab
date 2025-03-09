@@ -13,9 +13,9 @@ permalink: /team/
 
 Jump to [staff](#staff),[PhD students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
 
-## Staff
+## PI
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.pi %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

@@ -62,7 +62,7 @@ We are grateful for funding from [KTH Royal Institute of Technology](https://www
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-The group calendar is found [here]({{ site.url }}{{ site.baseurl }}/aoa) 
+The group calendar can be found [here]({{ site.url }}{{ site.baseurl }}/aoa) and the open data associated with the research articles can be found [here](https://github.com/orgs/KTH-Complex-fluids-group/repositories)
 
 
 <figure class="fourth">

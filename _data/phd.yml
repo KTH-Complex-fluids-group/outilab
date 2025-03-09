@@ -1,5 +1,5 @@
 - name: Kazi Tassawar Iqbal
-  photo: tassawar.png
+  photo: none.png
   info: PhD student, started May 2020
   email: ktiqbal@mech.kth.se
   number_educ: 2
@@ -7,12 +7,28 @@
   education2: <a href="mailto:ktiqbal@mech.kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:ktiqbal@mech.kth.se" border="0" /> </a>
   
 - name: Shahriar Habibi
-  photo: tassawar.png
+  photo: none.png
   info: PhD student, started Sep 2021
-  email: shabibi@mech.kth.se
+  email: shabibi@kth.se
   number_educ: 2
   education1: Master, No data
-  education2: <a href="mailto:shabibi@mech.kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:shabibi@mech.kth.se" border="0" /> </a>
+  education2: <a href="mailto:shabibi@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:shabibi@kth.se" border="0" /> </a>
+  
+- name: Naveen Agrawal
+  photo: none.png
+  info: PhD student, started Sep 2021
+  email: nagrawal@kth.se
+  number_educ: 2
+  education1: Master, No data
+  education2: <a href="mailto:nagrawal@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:nagrwal@kth.se" border="0" /> </a>
+  
+- name: Kasra Amini
+  photo: none.png
+  info: PhD student, started Sep 2021
+  email: kamini@kth.se
+  number_educ: 2
+  education1: Master, No data
+  education2: <a href="mailto:kamini@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:kamini@kth.se" border="0" /> </a>
    
 - name: Arivazhagan Geetha Balasubramanian
   photo: ari.jpeg
@@ -23,7 +39,7 @@
   education2: <a href="mailto:argb@mech.kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:argb@mech.kth.se" border="0" /> </a><a href="https://scholar.google.com/citations?user=xyheRZ8AAAAJ&hl=en"> <img src="https://img.shields.io/badge/Scholar-4b4b4b?style=flat&logo=googlescholar&link=https://scholar.google.com/citations?user=xyheRZ8AAAAJ&hl=en" border="0" /> </a> <a href="https://www.linkedin.com/in/arivazhagan-geetha-balasubramanian-648b8567/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/arivazhagan-geetha-balasubramanian-648b8567/" border="0" /> </a>
   
 - name: Parvathy Kunchi Kannan
-  photo: tassawar.png
+  photo: none.png
   info: PhD student, started Sep 2022
   email: pakk@kth.se
   number_educ: 2
@@ -31,7 +47,7 @@
   education2: <a href="mailto:pakk@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:pakk@kth.se" border="0" /> </a><a href="https://scholar.google.com/citations?user=neaVB7kAAAAJ&hl=en&oi=ao"> <img src="https://img.shields.io/badge/Scholar-4b4b4b?style=flat&logo=googlescholar&link=https://scholar.google.com/citations?user=neaVB7kAAAAJ&hl=en&oi=ao" border="0" /> </a>
   
 - name: Udit Sharma
-  photo: tassawar.png
+  photo: none.png
   info: PhD student, started Mar 2024
   email: udits@kth.se
   number_educ: 2
@@ -39,7 +55,7 @@
   education2: <a href="mailto:udits@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:udits@kth.se" border="0" /> </a>
   
 - name: "This could be you !"
-  photo: tassawar.png
+  photo: none.png
   info: See <a href="https://kth-complex-fluids-group.github.io/outilab/vacancies">openings</a> for more info
   email: outi@mech.kth.se
   number_educ: 0
