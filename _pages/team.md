@@ -13,7 +13,7 @@ permalink: /team/
 
 Jump to [staff](#staff),[PhD students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
 
-## PI
+## Principal Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
 
