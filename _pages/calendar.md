@@ -8,8 +8,6 @@ permalink: /aoa.html
 
 # Calendar
 
-Every Tuesday at 9:30 in HL124.
+Group meeting every alternate Tuesdays at 10:00.
 
-05.09.2017 Aarts
-
-dfghjkl
+Updates on defense and presentations will be made here.
