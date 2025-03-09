@@ -6,7 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-<!-- Bootstrap Carousel with Smooth Transitions -->
 <div markdown="0" id="carousel" class="carousel slide carousel-fade" style="height: 320px; display: flex; justify-content: center; align-items: center;" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Indicators -->
     <ol class="carousel-indicators">
