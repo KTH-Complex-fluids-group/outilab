@@ -1,4 +1,4 @@
-# Complex Fluids group
+# KTH Complex Fluids group
 
 This is the website of our academic research group at KTH, Sweden.\
 The website is live at: [https://kth-complex-fluids-group.github.io/outilab/](https://kth-complex-fluids-group.github.io/outilab/)
