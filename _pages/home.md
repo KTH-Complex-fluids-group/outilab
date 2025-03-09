@@ -6,9 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-**News: New webpage under construction.
-More details to follow.
-
 
 <div markdown="0" id="carousel" class="carousel slide" style="height: 320px;display:flex;justify-content:center;align-items:center;" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -65,7 +62,7 @@ We are grateful for funding from [KTH Royal Institute of Technology](https://www
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
+The group calendar is found [here]({{ site.url }}{{ site.baseurl }}/aoa) 
 
 
 <figure class="fourth">
