@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-{% assign items = site.data.publist %}
+{% assign items = site.data.publist | reverse %}
 {% assign total = items | size %}
 {% for item in items %}
   {% assign authors_list = item.authors | split: " and " %}
