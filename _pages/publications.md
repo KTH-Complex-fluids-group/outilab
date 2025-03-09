@@ -33,7 +33,7 @@ permalink: /publications/
     {% endunless %}
   {% endfor %}
 
-  {% assign reverse_index = total | minus: forloop.index1 %}
+  {% assign reverse_index = total | minus: forloop.index | plus: 1 %}
   {{ reverse_index }}. **_{{ item.title }}_**  
   {{ final_authors }}  
   <a href="{{ item.url }}">{{ item.display }}</a>
@@ -41,3 +41,4 @@ permalink: /publications/
   {% unless forloop.last %}
   {% endunless %}
 {% endfor %}
+
