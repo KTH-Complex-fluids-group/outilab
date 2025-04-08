@@ -5,6 +5,12 @@
   display: "Physics of Fluids 37(1), 2025"
   highlight: 0
   pihighlight: -3
+
+- title: "A potential energy conserving finite element method for turbulent variable density flow: application to glacier-fjord circulation"
+  authors: Lundgren, Lukas and Helanow, Christian and Wiskandt, Jonathan and Koszalka, Inga Monika and Ahlkrona, Josefin
+  url: https://doi.org/10.1016/j.jcp.2025.113981
+  display: Journal of Computational Physics, 2025
+  highlight: 1
   
 # 2024
 - title: "Bursting bubble in an elastoviscoplastic medium"
