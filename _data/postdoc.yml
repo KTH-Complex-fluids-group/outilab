@@ -13,3 +13,13 @@
   number_educ: 2
   education1: Master, <a href="https://www.uu.se/">Uppsala University>
   education2: PhD, <a href="https://www.uu.se/">Uppsala University>
+
+- name: Vidar Stiernström
+  photo: none.png
+  info: Postdoc, started April 2025
+  email: vidarsti@kth.se
+  number_educ: 4
+  education1: Master, <a href="https://www.uu.se/">Uppsala University</a>
+  education2: PhD, <a href="https://www.uu.se/">Uppsala University</a>
+  education3: Postdoc, <a href="https://www.stanford.edu/">Stanford University</a>
+  education4: <a href="mailto:vidarsti@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:vidarsti@kth.se" border="0" /> </a>
