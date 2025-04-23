@@ -2,24 +2,24 @@
   photo: none.png
   info: Postdoc, started Mar 2024
   email: didd@kth.se
-  number_educ: 2
+  number_educ: 1
   education1: PhD, <a href="https://www.mpip-mainz.mpg.de/en/home">Max Planck Institute for Polymer Research</a>
-  education2: <a href="mailto:didd@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:didd@kth.se" border="0" /> </a>
+  contact: <a href="mailto:didd@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:didd@kth.se" border="0" /> </a>
 
 - name: Lukas Lundgren
   photo: none.png
   info: Postdoc, started Oct 2023
   email: lukas.lundgren@math.su.se
-  number_educ: 2
+  number_educ: 1
   education1: Master, <a href="https://www.uu.se/">Uppsala University</a>
-  education2: PhD, <a href="https://www.uu.se/">Uppsala University</a>
+  contact: PhD, <a href="https://www.uu.se/">Uppsala University</a>
 
 - name: Vidar Stiernström
   photo: none.png
   info: Postdoc, started April 2025
   email: vidarsti@kth.se
-  number_educ: 4
+  number_educ: 3
   education1: Master, <a href="https://www.uu.se/">Uppsala University</a>
   education2: PhD, <a href="https://www.uu.se/">Uppsala University</a>
   education3: Postdoc, <a href="https://www.stanford.edu/">Stanford University</a>
-  education4: <a href="mailto:vidarsti@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:vidarsti@kth.se" border="0" /> </a> <a href="https://scholar.google.com/citations?user=mTdj_RAAAAAJ&hl=sv"> <img src="https://img.shields.io/badge/Scholar-4b4b4b?style=flat&logo=googlescholar&link=https://scholar.google.com/citations?user=XSKb9YAAAAAJ&hl=en&oi=ao" border="0" /> </a>
+  contact: <a href="mailto:vidarsti@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:vidarsti@kth.se" border="0" /> </a> <a href="https://scholar.google.com/citations?user=mTdj_RAAAAAJ&hl=sv"> <img src="https://img.shields.io/badge/Scholar-4b4b4b?style=flat&logo=googlescholar&link=https://scholar.google.com/citations?user=XSKb9YAAAAAJ&hl=en&oi=ao" border="0" /> </a>
