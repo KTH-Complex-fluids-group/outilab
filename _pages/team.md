@@ -49,6 +49,7 @@ Jump to [staff](#staff),[PhD students](#phd-students), [master and bachelor stud
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
+   {{ member.contact }} 
   {% endif %}
 
   {% if member.number_educ == 5 %}
@@ -56,7 +57,7 @@ Jump to [staff](#staff),[PhD students](#phd-students), [master and bachelor stud
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
-   {{ member.education5 }} 
+  <li> {{ member.education5 }} </li>
   {% endif %}
 
   </ul>
@@ -90,11 +91,6 @@ Jump to [staff](#staff),[PhD students](#phd-students), [master and bachelor stud
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
-
-  {% if member.number_educ == 0 %}
-  <li> {{ member.education1 }} </li>
-     {{ member.contact | markdownify}}
-  {% endif %}
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 | markdownify}} </li>
@@ -155,18 +151,21 @@ Jump to [staff](#staff),[PhD students](#phd-students), [master and bachelor stud
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <li> {{ member.education1 | markdownify}} </li>
+   {{ member.contact | markdownify}} 
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-   {{ member.education2 | markdownify}} 
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+   {{ member.contact | markdownify}} 
   {% endif %}
 
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
+   {{ member.contact | markdownify}} 
   {% endif %}
 
   {% if member.number_educ == 4 %}
@@ -174,14 +173,7 @@ Jump to [staff](#staff),[PhD students](#phd-students), [master and bachelor stud
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+   {{ member.contact | markdownify}} 
   {% endif %}
 
   </ul>
