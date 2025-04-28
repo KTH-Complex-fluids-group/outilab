@@ -1,4 +1,11 @@
 # 2025
+- title: "Prediction of flow and polymeric stresses in a viscoelastic turbulent channel flow using convolutional neural networks"
+  authors: Balasubramanian, A. G. and Vinuesa, R. and Tammisola, Outi
+  url: https://doi.org/10.1017/jfm.2025.240
+  display: "Journal of Fluid Mechanics 1009, A36, 2025"
+  highlight: 1
+  pihighlight: -1
+  
 - title: "Numerical study of particle suspensions in duct flow of elastoviscoplastic fluids"
   authors: Habibi, S and Iqbal, K. T. and Ardekani, M. N. and Chaparian, E. and Brandt, L. and Tammisola, Outi
   url: https://doi.org/10.1017/jfm.2025.69
