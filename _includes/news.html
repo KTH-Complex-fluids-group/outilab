@@ -1,11 +1,25 @@
-
 <div class="well">
-<h4>News</h4>
+  <h4>News</h4>
 
-{% for article in site.data.news limit:7 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
-{% endfor %}
+  {% assign pinned_articles = site.data.news | where: "pinned", true %}
+  {% assign unpinned_articles = site.data.news | where_exp: "item", "item.pinned != true" %}
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+  <!-- Pinned items first -->
+  {% for article in pinned_articles %}
+    <p class="pinned-news">
+      📌 <strong>{{ article.date }}</strong><br>
+      {{ article.headline | markdownify }}
+    </p>
+  {% endfor %}
 
-    </div>
+  <!-- Then the rest (limit total displayed to 7 items) -->
+  {% assign remaining_limit = 7 | minus: pinned_articles.size %}
+  {% for article in unpinned_articles limit: remaining_limit %}
+    <p>
+      {{ article.date }}<br>
+      {{ article.headline | markdownify }}
+    </p>
+  {% endfor %}
+
+  <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+</div>
