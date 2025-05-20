@@ -45,6 +45,12 @@ permalink: /
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/home7.png"  style="height: 280px;display:flex;justify-content:center;align-items:center;" alt="Slide 7" />
         </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/home8.png"  style="height: 280px;display:flex;justify-content:center;align-items:center;" alt="Slide 7" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/home9.png"  style="height: 280px;display:flex;justify-content:center;align-items:center;" alt="Slide 7" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
