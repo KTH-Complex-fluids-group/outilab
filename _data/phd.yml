@@ -14,13 +14,13 @@
   education1: Master, No data
   contact: <a href="mailto:shabibi@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:shabibi@kth.se" border="0" /> </a>
   
-- name: Naveen Agrawal
-  photo: none.png
-  info: PhD student, started Sep 2021
+- name: Naveen Kumar Agrawal
+  photo: naveen.jpeg
+  info: PhD student, started Oct 2021
   email: nagrawal@kth.se
-  number_educ: 1
-  education1: Master, No data
-  contact: <a href="mailto:nagrawal@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:nagrwal@kth.se" border="0" /> </a>
+  number_educ: 2
+  education1: Master, <a href="https://mech.iitm.ac.in">Indian Institute of Technology, Madras</a>
+  education2: <a href="mailto:nagrawal@kth.se"> <img src="https://img.shields.io/badge/Mail-blue?style=flat&logo=doi&link=mailto:argb@mech.kth.se" border="0" /> </a><a href="https://scholar.google.com/citations?user=xyheRZ8AAAAJ&hl=en"> <img src="https://img.shields.io/badge/Scholar-4b4b4b?style=flat&logo=googlescholar&link=https://scholar.google.co.in/citations?user=PeoROP0AAAAJ&hl=en" border="0" /> </a> <a href="https://www.linkedin.com/in/arivazhagan-geetha-balasubramanian-648b8567/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/naveen-agrawal-74a635120/" border="0" /> </a>
   
 - name: Kasra Amini
   photo: none.png
